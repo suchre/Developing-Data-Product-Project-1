@@ -42,7 +42,7 @@ You will need to enter the car specs:
 - Number of Cyclinder
 - Horse Power
 - Car Weight (1000 lbs)
-- Transmission Type<br>
+- Transmission Type
 
 Then, click on the SUBMIT button.
 
@@ -53,7 +53,7 @@ Shiny App
 ========================================================
 A Shiny application is developed to predict the fuel efficiency of a car when user enters those 4 car specs.
 
-You can find my Shiny App working : [Shiny App] ().
+You can find my Shiny App working : [ShinyApp] (https://bipika.shinyapps.io/myshinyapp/).
 
 Source code is available on the [GitHub](https://github.com/bipika/Developing-Data-Product-Project).
 

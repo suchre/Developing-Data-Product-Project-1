@@ -1,0 +1,9 @@
+name: shiny
+account: bipika
+server: shinyapps.io
+appId: 85509
+bundleId: 381114
+url: https://bipika.shinyapps.io/shiny/
+when: 1456473495.67888
+asMultiple: FALSE
+asStatic: FALSE

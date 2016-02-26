@@ -22,3 +22,5 @@ The shiny app will calculate and display the average fuel efficiency (in terms o
 Source code is available on the [GitHub](https://github.com/bipika/Developing-Data-Product-Project).
 
 Presentation available on [rPubs] (http://rpubs.com/bipika/myshinyapp).
+
+Detail project documention on [Regression Models Project - Motor Trend] (http://rpubs.com/bipika/motortrend).
